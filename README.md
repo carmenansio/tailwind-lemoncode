@@ -116,7 +116,3 @@ h1 {
 - **Escalabilidad:** Fácil de manejar en proyectos grandes.
 - **Mantenibilidad:** Estructura clara y organizada.
 - **Reducción de Especificidad:** Mejora la cascada y evita conflictos de estilos.
-
----
-
-```

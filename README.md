@@ -12,7 +12,7 @@ Este proyecto utiliza la metodología **ITCSS (Inverted Triangle CSS)** para org
 ## Estructura de Carpetas
 
 El proyecto se organiza en las siguientes carpetas, cada una con un propósito específico:
-
+```
 ### 1. **Settings**
 **Descripción:** Variables globales y configuraciones del proyecto.  
 **Ejemplo:**  
